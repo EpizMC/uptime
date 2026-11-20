@@ -41,16 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mcdonalds.com.ico",
     "slug": "mcdonalds-australia",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "57.13%",
+    "uptimeDay": "57.13%",
+    "uptimeWeek": "57.13%",
+    "uptimeMonth": "57.13%",
+    "uptimeYear": "57.13%",
     "time": 46,
     "timeDay": 46,
     "timeWeek": 46,
     "timeMonth": 46,
     "timeYear": 46,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-11-20": 0
+    }
   }
 ]
