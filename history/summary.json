@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 77,
-    "timeDay": 77,
-    "timeWeek": 77,
-    "timeMonth": 77,
-    "timeYear": 77,
+    "time": 75,
+    "timeDay": 75,
+    "timeWeek": 75,
+    "timeMonth": 75,
+    "timeYear": 75,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 151,
-    "timeDay": 151,
-    "timeWeek": 151,
-    "timeMonth": 151,
-    "timeYear": 151,
+    "time": 183,
+    "timeDay": 183,
+    "timeWeek": 183,
+    "timeMonth": 183,
+    "timeYear": 183,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mcdonalds.com.ico",
     "slug": "mcdonalds-australia",
     "status": "down",
-    "uptime": "6.88%",
-    "uptimeDay": "6.88%",
-    "uptimeWeek": "6.88%",
-    "uptimeMonth": "6.88%",
-    "uptimeYear": "6.88%",
-    "time": 48,
-    "timeDay": 48,
-    "timeWeek": 48,
-    "timeMonth": 48,
-    "timeYear": 48,
+    "uptime": "2.28%",
+    "uptimeDay": "2.28%",
+    "uptimeWeek": "2.28%",
+    "uptimeMonth": "2.28%",
+    "uptimeYear": "2.28%",
+    "time": 75,
+    "timeDay": 75,
+    "timeWeek": 75,
+    "timeMonth": 75,
+    "timeYear": 75,
     "dailyMinutesDown": {
-      "2026-11-20": 3
+      "2026-11-20": 8
     }
   }
 ]
