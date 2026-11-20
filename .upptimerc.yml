@@ -7,6 +7,314 @@ sites:
     url: https://www.google.com
   - name: Wikipedia
     url: https://en.wikipedia.org
+  - name: YouTube
+    url: https://www.youtube.com
+  - name: GitHub
+    url: https://github.com
+  - name: Reddit
+    url: https://www.reddit.com
+  - name: Discord
+    url: https://discord.com
+  - name: Twitch
+    url: https://www.twitch.tv
+  - name: Facebook
+    url: https://www.facebook.com
+  - name: Instagram
+    url: https://www.instagram.com
+  - name: X
+    url: https://x.com
+  - name: TikTok
+    url: https://www.tiktok.com
+  - name: LinkedIn
+    url: https://www.linkedin.com
+  - name: Pinterest
+    url: https://www.pinterest.com
+  - name: Snapchat
+    url: https://www.snapchat.com
+  - name: Threads
+    url: https://www.threads.net
+  - name: Tumblr
+    url: https://www.tumblr.com
+  - name: Medium
+    url: https://medium.com
+  - name: Quora
+    url: https://www.quora.com
+  - name: Stack Overflow
+    url: https://stackoverflow.com
+  - name: Stack Exchange
+    url: https://stackexchange.com
+  - name: GitLab
+    url: https://gitlab.com
+  - name: Bitbucket
+    url: https://bitbucket.org
+  - name: CodePen
+    url: https://codepen.io
+  - name: Replit
+    url: https://replit.com
+  - name: JSFiddle
+    url: https://jsfiddle.net
+  - name: npm
+    url: https://www.npmjs.com
+  - name: PyPI
+    url: https://pypi.org
+  - name: Docker Hub
+    url: https://hub.docker.com
+  - name: Cloudflare
+    url: https://www.cloudflare.com
+  - name: Vercel
+    url: https://vercel.com
+  - name: Netlify
+    url: https://www.netlify.com
+  - name: Render
+    url: https://render.com
+  - name: Railway
+    url: https://railway.com
+  - name: Firebase
+    url: https://firebase.google.com
+  - name: Supabase
+    url: https://supabase.com
+  - name: MDN Web Docs
+    url: https://developer.mozilla.org
+  - name: W3Schools
+    url: https://www.w3schools.com
+  - name: freeCodeCamp
+    url: https://www.freecodecamp.org
+  - name: GeeksforGeeks
+    url: https://www.geeksforgeeks.org
+  - name: Hacker News
+    url: https://news.ycombinator.com
+  - name: Product Hunt
+    url: https://www.producthunt.com
+  - name: Figma
+    url: https://www.figma.com
+  - name: Canva
+    url: https://www.canva.com
+  - name: Photopea
+    url: https://www.photopea.com
+  - name: Unsplash
+    url: https://unsplash.com
+  - name: Pexels
+    url: https://www.pexels.com
+  - name: Pixabay
+    url: https://pixabay.com
+  - name: Giphy
+    url: https://giphy.com
+  - name: Tenor
+    url: https://tenor.com
+  - name: Google Drive
+    url: https://drive.google.com
+  - name: Dropbox
+    url: https://www.dropbox.com
+  - name: OneDrive
+    url: https://onedrive.live.com
+  - name: Google Docs
+    url: https://docs.google.com
+  - name: Google Sheets
+    url: https://sheets.google.com
+  - name: Google Slides
+    url: https://slides.google.com
+  - name: Microsoft 365
+    url: https://www.microsoft365.com
+  - name: Notion
+    url: https://www.notion.so
+  - name: Trello
+    url: https://trello.com
+  - name: Asana
+    url: https://asana.com
+  - name: Monday.com
+    url: https://monday.com
+  - name: Slack
+    url: https://slack.com
+  - name: Zoom
+    url: https://zoom.us
+  - name: Google Meet
+    url: https://meet.google.com
+  - name: Microsoft Teams
+    url: https://www.microsoft.com/microsoft-teams
+  - name: ChatGPT
+    url: https://chatgpt.com
+  - name: Claude
+    url: https://claude.ai
+  - name: Gemini
+    url: https://gemini.google.com
+  - name: Perplexity
+    url: https://www.perplexity.ai
+  - name: Hugging Face
+    url: https://huggingface.co
+  - name: Replicate
+    url: https://replicate.com
+  - name: OpenRouter
+    url: https://openrouter.ai
+  - name: Wikipedia Commons
+    url: https://commons.wikimedia.org
+  - name: Internet Archive
+    url: https://archive.org
+  - name: IMDb
+    url: https://www.imdb.com
+  - name: Rotten Tomatoes
+    url: https://www.rottentomatoes.com
+  - name: Letterboxd
+    url: https://letterboxd.com
+  - name: Spotify
+    url: https://open.spotify.com
+  - name: SoundCloud
+    url: https://soundcloud.com
+  - name: Bandcamp
+    url: https://bandcamp.com
+  - name: Apple Music
+    url: https://music.apple.com
+  - name: Netflix
+    url: https://www.netflix.com
+  - name: Disney+
+    url: https://www.disneyplus.com
+  - name: Prime Video
+    url: https://www.primevideo.com
+  - name: Steam
+    url: https://store.steampowered.com
+  - name: Epic Games
+    url: https://store.epicgames.com
+  - name: GOG
+    url: https://www.gog.com
+  - name: Modrinth
+    url: https://modrinth.com
+  - name: CurseForge
+    url: https://www.curseforge.com
+  - name: Minecraft
+    url: https://www.minecraft.net
+  - name: Planet Minecraft
+    url: https://www.planetminecraft.com
+  - name: NameMC
+    url: https://namemc.com
+  - name: Minecraft Wiki
+    url: https://minecraft.wiki
+  - name: IGN
+    url: https://www.ign.com
+  - name: GameSpot
+    url: https://www.gamespot.com
+  - name: PCGamingWiki
+    url: https://www.pcgamingwiki.com
+  - name: TechRadar
+    url: https://www.techradar.com
+  - name: The Verge
+    url: https://www.theverge.com
+  - name: Ars Technica
+    url: https://arstechnica.com
+  - name: BBC
+    url: https://www.bbc.com
+  - name: CNN
+    url: https://www.cnn.com
+  - name: Reuters
+    url: https://www.reuters.com
+  - name: The Guardian
+    url: https://www.theguardian.com
+  - name: New York Times
+    url: https://www.nytimes.com
+  - name: Google News
+    url: https://news.google.com
+  - name: Yahoo
+    url: https://www.yahoo.com
+  - name: Bing
+    url: https://www.bing.com
+  - name: DuckDuckGo
+    url: https://duckduckgo.com
+  - name: Brave Search
+    url: https://search.brave.com
+  - name: Startpage
+    url: https://www.startpage.com
+  - name: Amazon
+    url: https://www.amazon.com
+  - name: eBay
+    url: https://www.ebay.com
+  - name: AliExpress
+    url: https://www.aliexpress.com
+  - name: Etsy
+    url: https://www.etsy.com
+  - name: IKEA
+    url: https://www.ikea.com
+  - name: Apple
+    url: https://www.apple.com
+  - name: Microsoft
+    url: https://www.microsoft.com
+  - name: NVIDIA
+    url: https://www.nvidia.com
+  - name: AMD
+    url: https://www.amd.com
+  - name: Intel
+    url: https://www.intel.com
+  - name: Samsung
+    url: https://www.samsung.com
+  - name: OpenAI
+    url: https://openai.com
+  - name: Mozilla
+    url: https://www.mozilla.org
+  - name: Brave
+    url: https://brave.com
+  - name: Opera
+    url: https://www.opera.com
+  - name: Speedtest
+    url: https://www.speedtest.net
+  - name: Fast
+    url: https://fast.com
+  - name: VirusTotal
+    url: https://www.virustotal.com
+  - name: Have I Been Pwned
+    url: https://haveibeenpwned.com
+  - name: URLScan
+    url: https://urlscan.io
+  - name: DNS Checker
+    url: https://dnschecker.org
+  - name: SSL Labs
+    url: https://www.ssllabs.com
+  - name: WHOIS
+    url: https://who.is
+  - name: IPinfo
+    url: https://ipinfo.io
+  - name: IP Location
+    url: https://iplocation.net
+  - name: JSON Formatter
+    url: https://jsonformatter.org
+  - name: JSONLint
+    url: https://jsonlint.com
+  - name: Regex101
+    url: https://regex101.com
+  - name: CyberChef
+    url: https://gchq.github.io/CyberChef
+  - name: Pastebin
+    url: https://pastebin.com
+  - name: Hastebin
+    url: https://hastebin.com
+  - name: Rentry
+    url: https://rentry.co
+  - name: Markdown Guide
+    url: https://www.markdownguide.org
+  - name: Emojipedia
+    url: https://emojipedia.org
+  - name: Time and Date
+    url: https://www.timeanddate.com
+  - name: Wolfram Alpha
+    url: https://www.wolframalpha.com
+  - name: Desmos
+    url: https://www.desmos.com
+  - name: GeoGebra
+    url: https://www.geogebra.org
+  - name: Google Maps
+    url: https://maps.google.com
+  - name: OpenStreetMap
+    url: https://www.openstreetmap.org
+  - name: Weather.com
+    url: https://weather.com
+  - name: BOM Australia
+    url: https://www.bom.gov.au
+  - name: Coursera
+    url: https://www.coursera.org
+  - name: edX
+    url: https://www.edx.org
+  - name: Khan Academy
+    url: https://www.khanacademy.org
+  - name: Udemy
+    url: https://www.udemy.com
+  - name: MIT OpenCourseWare
+    url: https://ocw.mit.edu
   - name: Epiz Studio
     url: https://epizmc.freedev.app
 
